@@ -389,9 +389,17 @@ body {
 
 /* Dark/light theme specific overrides can go here if needed */
 .dark-theme .train-card {
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.28);
+}
+
+.dark-theme .select-btn {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 .light-theme .train-card {
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 15px rgba(94, 96, 206, 0.12);
+}
+
+.light-theme .select-btn {
+  box-shadow: 0 2px 6px rgba(94, 96, 206, 0.2);
 }
