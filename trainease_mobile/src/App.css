@@ -358,7 +358,7 @@ body {
 }
 
 .select-btn {
-  background: linear-gradient(to right, var(--primary-color), #7678ED);
+  background: linear-gradient(to right, var(--primary-color), var(--accent-color));
   color: white;
   border: none;
   padding: 0.5rem 1rem;
@@ -366,12 +366,12 @@ body {
   font-weight: 500;
   cursor: pointer;
   transition: all 0.2s ease;
-  box-shadow: 0 2px 6px rgba(94, 96, 206, 0.25);
+  box-shadow: 0 2px 6px rgba(233, 64, 87, 0.25);
 }
 
 .select-btn:hover {
-  background-color: #4748B8;
-  box-shadow: 0 2px 8px rgba(94, 96, 206, 0.4);
+  background: linear-gradient(to right, #D53A50, #FF6464);
+  box-shadow: 0 2px 8px rgba(233, 64, 87, 0.4);
 }
 
 /* Footer styles */
