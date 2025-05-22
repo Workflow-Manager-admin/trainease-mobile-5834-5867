@@ -354,7 +354,7 @@ body {
   font-weight: bold;
   font-size: 1.1rem;
   color: var(--primary-color);
-  text-shadow: 0 0 1px rgba(94, 96, 206, 0.2);
+  text-shadow: 0 0 1px rgba(233, 64, 87, 0.2);
 }
 
 .select-btn {
