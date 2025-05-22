@@ -1,25 +1,25 @@
 :root {
   /* Base colors */
-  --primary-color: #4C78E0;
-  --accent-color: #FF6B6B;
+  --primary-color: #5E60CE;
+  --accent-color: #FF5E78;
   
   /* Dark theme variables */
-  --dark-bg: #121212;
-  --dark-surface: rgba(40, 40, 40, 0.75);
-  --dark-text-primary: rgba(255, 255, 255, 0.9);
-  --dark-text-secondary: rgba(255, 255, 255, 0.6);
-  --dark-border: rgba(255, 255, 255, 0.1);
-  --dark-card-bg: rgba(55, 55, 55, 0.65);
-  --dark-card-hover: rgba(70, 70, 70, 0.85);
+  --dark-bg: #0F111A;
+  --dark-surface: rgba(30, 32, 44, 0.75);
+  --dark-text-primary: rgba(255, 255, 255, 0.92);
+  --dark-text-secondary: rgba(255, 255, 255, 0.65);
+  --dark-border: rgba(255, 255, 255, 0.12);
+  --dark-card-bg: rgba(35, 38, 52, 0.65);
+  --dark-card-hover: rgba(45, 48, 66, 0.85);
   
   /* Light theme variables */
-  --light-bg: #F5F7FA;
-  --light-surface: rgba(255, 255, 255, 0.75);
-  --light-text-primary: rgba(0, 0, 0, 0.9);
-  --light-text-secondary: rgba(0, 0, 0, 0.6);
-  --light-border: rgba(0, 0, 0, 0.1);
-  --light-card-bg: rgba(255, 255, 255, 0.65);
-  --light-card-hover: rgba(255, 255, 255, 0.85);
+  --light-bg: #F0F4FF;
+  --light-surface: rgba(255, 255, 255, 0.78);
+  --light-text-primary: rgba(10, 10, 35, 0.92);
+  --light-text-secondary: rgba(30, 30, 60, 0.65);
+  --light-border: rgba(30, 30, 60, 0.12);
+  --light-card-bg: rgba(255, 255, 255, 0.68);
+  --light-card-hover: rgba(255, 255, 255, 0.88);
 }
 
 /* Theme classes for root element */
