@@ -363,7 +363,8 @@ body {
 }
 
 .select-btn:hover {
-  background-color: #3b66cf;
+  background-color: #4748B8;
+  box-shadow: 0 2px 8px rgba(94, 96, 206, 0.4);
 }
 
 /* Footer styles */
