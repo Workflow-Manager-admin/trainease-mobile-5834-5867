@@ -398,9 +398,9 @@ body {
 }
 
 .light-theme .train-card {
-  box-shadow: 0 4px 15px rgba(94, 96, 206, 0.12);
+  box-shadow: 0 4px 15px rgba(233, 64, 87, 0.12);
 }
 
 .light-theme .select-btn {
-  box-shadow: 0 2px 6px rgba(94, 96, 206, 0.2);
+  box-shadow: 0 2px 6px rgba(233, 64, 87, 0.2);
 }
