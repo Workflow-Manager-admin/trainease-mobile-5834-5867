@@ -1,25 +1,25 @@
 :root {
   /* Base colors */
-  --primary-color: #5E60CE;
-  --accent-color: #FF5E78;
+  --primary-color: #E94057;
+  --accent-color: #FF7676;
   
   /* Dark theme variables */
-  --dark-bg: #0F111A;
-  --dark-surface: rgba(30, 32, 44, 0.75);
+  --dark-bg: #15101B;
+  --dark-surface: rgba(40, 25, 35, 0.75);
   --dark-text-primary: rgba(255, 255, 255, 0.92);
   --dark-text-secondary: rgba(255, 255, 255, 0.65);
   --dark-border: rgba(255, 255, 255, 0.12);
-  --dark-card-bg: rgba(35, 38, 52, 0.65);
-  --dark-card-hover: rgba(45, 48, 66, 0.85);
+  --dark-card-bg: rgba(50, 30, 42, 0.65);
+  --dark-card-hover: rgba(65, 40, 55, 0.85);
   
   /* Light theme variables */
-  --light-bg: #F0F4FF;
+  --light-bg: #FFF0F5;
   --light-surface: rgba(255, 255, 255, 0.78);
-  --light-text-primary: rgba(10, 10, 35, 0.92);
-  --light-text-secondary: rgba(30, 30, 60, 0.65);
-  --light-border: rgba(30, 30, 60, 0.12);
-  --light-card-bg: rgba(255, 255, 255, 0.68);
-  --light-card-hover: rgba(255, 255, 255, 0.88);
+  --light-text-primary: rgba(40, 10, 30, 0.92);
+  --light-text-secondary: rgba(60, 30, 50, 0.65);
+  --light-border: rgba(60, 30, 50, 0.12);
+  --light-card-bg: rgba(255, 240, 245, 0.68);
+  --light-card-hover: rgba(255, 240, 245, 0.88);
 }
 
 /* Theme classes for root element */
