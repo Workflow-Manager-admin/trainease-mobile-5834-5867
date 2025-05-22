@@ -235,7 +235,7 @@ body {
 
 .train-card-header {
   padding: 1.2rem;
-  background: linear-gradient(135deg, var(--primary-color), #7678ED);
+  background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
   color: white;
   display: flex;
   justify-content: space-between;
